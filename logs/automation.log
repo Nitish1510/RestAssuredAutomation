@@ -1,0 +1,35 @@
+00:32:04.874 [main] INFO  api.test.UserTest2 - **User info is updated..**
+00:32:04.887 [main] INFO  api.test.UserTest2 - **Deleting User info..**
+00:32:06.341 [main] INFO  api.test.UserTest2 - **User info is deleted..**
+00:33:20.448 [main] INFO  api.test.UserTest2 - **Creating User info..**
+00:33:23.113 [main] INFO  api.test.UserTest2 - **User is created..**
+00:33:23.123 [main] INFO  api.test.UserTest2 - **Reading User info..**
+00:33:24.721 [main] INFO  api.test.UserTest2 - **Updating User info..**
+00:33:28.012 [main] INFO  api.test.UserTest2 - **User info is updated..**
+00:33:28.016 [main] INFO  api.test.UserTest2 - **Deleting User info..**
+00:33:29.478 [main] INFO  api.test.UserTest2 - **User info is deleted..**
+00:33:43.210 [main] INFO  api.test.UserTest2 - **Creating User info..**
+00:33:50.767 [main] INFO  api.test.UserTest2 - **User is created..**
+00:33:50.777 [main] INFO  api.test.UserTest2 - **Reading User info..**
+00:35:46.471 [main] INFO  api.test.UserTest2 - **Creating User info..**
+00:35:49.095 [main] INFO  api.test.UserTest2 - **User is created..**
+00:35:49.111 [main] INFO  api.test.UserTest2 - **Reading User info..**
+00:35:50.578 [main] INFO  api.test.UserTest2 - **User info is displayed..**
+00:35:50.578 [main] INFO  api.test.UserTest2 - **Updating User info..**
+00:35:53.580 [main] INFO  api.test.UserTest2 - **Deleting User info..**
+00:35:54.952 [main] INFO  api.test.UserTest2 - **User info is deleted..**
+00:36:14.244 [main] INFO  api.test.UserTest2 - **Creating User info..**
+00:36:16.893 [main] INFO  api.test.UserTest2 - **User is created..**
+00:36:16.910 [main] INFO  api.test.UserTest2 - **Reading User info..**
+00:36:18.428 [main] INFO  api.test.UserTest2 - **Updating User info..**
+00:36:21.627 [main] INFO  api.test.UserTest2 - **User info is updated..**
+00:36:21.627 [main] INFO  api.test.UserTest2 - **Deleting User info..**
+00:36:23.113 [main] INFO  api.test.UserTest2 - **User info is deleted..**
+00:36:37.681 [main] INFO  api.test.UserTest2 - **Creating User info..**
+00:36:40.336 [main] INFO  api.test.UserTest2 - **User is created..**
+00:36:40.352 [main] INFO  api.test.UserTest2 - **Reading User info..**
+00:36:41.913 [main] INFO  api.test.UserTest2 - **User info is displayed..**
+00:36:41.913 [main] INFO  api.test.UserTest2 - **Updating User info..**
+00:36:45.867 [main] INFO  api.test.UserTest2 - **User info is updated..**
+00:36:45.867 [main] INFO  api.test.UserTest2 - **Deleting User info..**
+00:36:47.902 [main] INFO  api.test.UserTest2 - **User info is deleted..**
